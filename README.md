@@ -24,7 +24,7 @@ Despite Rhine's claims of discovering evidence for such phenomena in his book [E
 - `scipy.stats`
 
 ## Usage
-1. Clone the repository to your local machine.
+1. Download `zener.py` to your local machine.
 2. Install the required Python packages using your preferred package manager (pip, conda, etc.).
 3. Run the program and follow the on-screen instructions to complete trials.
 4. View statistical results and saved files on your computer.

@@ -1,17 +1,33 @@
-# zener.py
+# Zener Card Replication Program: zener.py
 
-This basic Python program runs a simple computerized replication of the (in)famous Zener Card studies conducted by Dr. J.B. Rhine. Rhine's original studies were designed to evaluate specific types of extra-sensory perception (ESP) That is, according to Rhine, "perception without the function of the recognized senses". Among other things, Rhine believed he had found legitimate evidence of what is today referred to as *precognition*, the ability to perceive (and therefore predict) an event that will occur in the future. However, Rhine\'s methodology has been heavily critiqued in the years since he first discussed his findings in his book *Extrasensory Perception* (https://archive.org/embed/extrasensoryperc0000rhin_j6u0).  Despite the critique and general inability to replicate his results, many people to this day still take him at his word that he discovered something phenomenal and, indeed, many people believe that such powers are possible and they themselves may possess them.
+This Python program runs a computerized replication of the well-known Zener Card studies originally conducted by Dr. J.B. Rhine. In this simulation, Zener cards are substituted with the numbers 1, 2, 3, 4, and 5.
 
-This program is designed to put those one of those alleged abilities to the test in a manner similar to that employed by Rhine; though, with a little bit more scientific rigour.
+## Background
 
-It allows you to complete as many or as few trials as you'd like and will statisically describe the results and evaluate whether you are precognitive according to a $\alpha = 0.05$ decision criteria. The program will also save the results to your computer as 
- a graph and spreadsheet file.
+Dr. J.B. Rhine's original studies aimed to explore specific types of extra-sensory perception (ESP), defined as "perception without the function of the recognized senses." One intriguing aspect investigated was *precognition* - the alleged ability to perceive and predict events that would occur in the future.
 
-Requires the following Python packages to run
-- sys
-- datetime
-- textwrap
-- numpy
-- pandas
-- matplotlib.pyplot
-- scipy.stats
+Despite Rhine's claims of discovering evidence for such phenomena in his book [Extrasensory Perception](https://archive.org/embed/extrasensoryperc0000rhin_j6u0), his methodology has faced significant criticism, and subsequent attempts to replicate his results have proven challenging. Nevertheless, a persistent belief in the possibility of extraordinary powers, including precognition, continues to capture the imagination of many.
+
+## Features
+- Conduct as many or as few trials as desired.
+- Provides statistical analysis of results.
+- Evaluates whether the user demonstrates precognitive abilities using a decision criteria of $\alpha = 0.05$.
+- Saves results to the user's computer in graphical and spreadsheet (.csv) formats.
+
+## Requirements
+- `sys`
+- `datetime`
+- `textwrap`
+- `numpy`
+- `pandas`
+- `matplotlib.pyplot`
+- `scipy.stats`
+
+## Usage
+1. Clone the repository to your local machine.
+2. Install the required Python packages using your preferred package manager (pip, conda, etc.).
+3. Run the program and follow the on-screen instructions to complete trials.
+4. View statistical results and saved files on your computer.
+
+## Additional Information
+Rhine's original book, Extrasensory Perception, can be accessed here: https://archive.org/embed/extrasensoryperc0000rhin_j6u0

@@ -25,7 +25,7 @@ Despite Rhine's claims of discovering evidence for such phenomena in his book [E
 
 ## Usage
 1. Download `zener.py` to your local machine.
-2. Install the required Python packages using your preferred package manager (pip, conda, etc.).
+2. Install the required Python packages using your preferred package manager (e.g., pip, conda).
 3. Run the program and follow the on-screen instructions to complete trials.
 4. View statistical results and saved files on your computer.
 

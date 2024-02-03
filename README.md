@@ -30,4 +30,4 @@ Despite Rhine's claims of discovering evidence for such phenomena in his book [E
 4. View statistical results and saved files on your computer.
 
 ## Additional Information
-Rhine's original book, Extrasensory Perception, can be accessed here: https://archive.org/embed/extrasensoryperc0000rhin_j6u0
+Rhine's original book, *Extrasensory Perception*, can be accessed here: https://archive.org/embed/extrasensoryperc0000rhin_j6u0

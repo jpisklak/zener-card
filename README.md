@@ -5,7 +5,7 @@ This Python program runs a computerized replication of the well-known Zener Card
 ## Background
 Dr. J.B. Rhine's original studies aimed to explore specific types of extra-sensory perception (ESP), defined as "perception without the function of the recognized senses." One intriguing aspect investigated was *precognition* - the alleged ability to perceive and predict events that would occur in the future.
 
-Despite Rhine's claims of discovering evidence for such phenomena in his book [Extrasensory Perception](https://archive.org/embed/extrasensoryperc0000rhin_j6u0), his methodology has faced significant criticism, and subsequent attempts to replicate his results have proven challenging. Nevertheless, a persistent belief in the possibility of extraordinary powers, including precognition, continues to capture the imagination of many.
+Despite Dr. Rhine's claims of discovering evidence for such phenomena in his book [Extrasensory Perception](https://archive.org/embed/extrasensoryperc0000rhin_j6u0), his methodology has faced significant criticism, and subsequent attempts to replicate his results have proven challenging. Nevertheless, a persistent belief in the possibility of extraordinary powers, including precognition, continues to capture the imagination of many.
 
 ## Features
 - Conduct as many or as few trials as desired.

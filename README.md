@@ -36,3 +36,6 @@ Despite Dr. Rhine's claims of discovering evidence for such phenomena in his boo
 
 ## Additional Information
 Rhine's original book, *Extrasensory Perception*, can be accessed here: https://archive.org/embed/extrasensoryperc0000rhin_j6u0
+
+## License
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).

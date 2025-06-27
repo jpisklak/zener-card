@@ -39,3 +39,20 @@ Rhine's original book, *Extrasensory Perception*, can be accessed here: https://
 
 ## License
 This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
+
+## Citation
+
+If you use this program in your teaching, writing, or research, please cite it as:
+
+Pisklak, J. M. (2025). *Zener card replication program* [Python code]. GitHub. https://github.com/jpisklak/zener-card
+
+```bibtex
+@online{ ,
+  author       = {Pisklak, Jeffrey M.},
+  title        = {Zener Card Replication Program},
+  year         = {2025},
+  note         = {Python code},
+  organization = {GitHub},
+  url          = {https://github.com/jpisklak/zener-card}
+}
+```

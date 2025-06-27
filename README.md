@@ -44,14 +44,14 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 If you use this program in your teaching, writing, or research, please cite it as:
 
-Pisklak, J. M. (2025). *Zener card replication program* [Python code]. GitHub. https://github.com/jpisklak/zener-card
+Pisklak, J. M. (2024). *Zener card replication program* [Python program]. GitHub. https://github.com/jpisklak/zener-card
 
 ```bibtex
 @online{ ,
   author       = {Pisklak, Jeffrey M.},
   title        = {Zener Card Replication Program},
-  year         = {2025},
-  note         = {Python code},
+  year         = {2024},
+  note         = {Python program},
   organization = {GitHub},
   url          = {https://github.com/jpisklak/zener-card}
 }
